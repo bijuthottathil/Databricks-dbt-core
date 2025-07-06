@@ -1,4 +1,5 @@
-# DatabricksDBT-VEV
+# Load CSV data from dbt seed to Databricks Schema
+![image](https://github.com/user-attachments/assets/79283537-a7f8-469e-8765-bdc63696488a)
 
 1. python -m venv venv_dbt  
 
