@@ -28,6 +28,10 @@
 15.  ![image](https://github.com/user-attachments/assets/0b8519a5-7faf-4235-8543-06da8e66b372)
 16.  Check the result in Databricks
 17.  ![image](https://github.com/user-attachments/assets/e2f78283-89ad-4a28-8742-e2b6efd983c3)
+18.  You can see delta table created for Customers table in Databricks Catalog/Schema ..
+
+19.  ![image](https://github.com/user-attachments/assets/b6ceffb3-c13f-4daa-9817-126cee81f621)
+
 
 
 
