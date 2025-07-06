@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+
+# Distributions
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+/bin/activate
+/bin/activate.csh
+/bin/activate.fish
+/bin/activate.ps1
+/bin/activate.bat
+/bin/activate.sh
+/Scripts/activate
+/Scripts/activate.bat
+/Scripts/activate.ps1
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS generated files
+.ipynb_checkpoints
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ruff_formatter_cache/
+.history/
+
+# Database files
+*.sqlite3
+*.db
+*.db-journal
+
+# Logs
+*.log
+logs/
+
+# Thumbnails
+.thumbnails/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
